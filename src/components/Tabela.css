@@ -1,0 +1,16 @@
+.table-area {
+  background-color: #dbd8d8;
+  width: 50%;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 10px;
+}
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 4px;
+}
